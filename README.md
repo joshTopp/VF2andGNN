@@ -1,2 +1,2 @@
 # VF2andGNN
-Implementation of the VF2 algo in Java and Python. Going to develop a GNN to improve speed on large graphs.
+Implementation of the VF2 Isomorphism algo in Java and Python. Going to develop a GNN to improve isomorphism speed check on large graphs.
